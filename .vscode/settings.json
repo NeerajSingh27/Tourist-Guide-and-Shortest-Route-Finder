@@ -1,0 +1,9 @@
+{
+    "chat.tools.terminal.outputDeltas": true,
+    "chat.tools.terminal.ignoreDefaultAutoApproveRules": true,
+    "chat.includeReferencedInstructions": true,
+    "python.analysis.enableExternalTypeServer": true,
+    "python.analysis.useLegacyTypeServerBackgroundProcess": true,
+    "chat.useClaudeHooks": true,
+    "chat.useCustomizationsInParentRepositories": true
+}
