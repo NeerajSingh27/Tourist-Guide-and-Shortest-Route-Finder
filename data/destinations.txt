@@ -11,3 +11,4 @@ Dehradun|Mussoorie|35
 Dehradun|Nainital|290
 Mussoorie|Nainital|320
 Nainital|Auli|260
+Nainital|Auli|260
