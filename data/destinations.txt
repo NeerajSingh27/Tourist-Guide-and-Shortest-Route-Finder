@@ -1,0 +1,13 @@
+# Sample academic distances in km (not live driving distances)
+Delhi|Haridwar|220
+Delhi|Mussoorie|290
+Delhi|Nainital|320
+Haridwar|Rishikesh|25
+Haridwar|Dehradun|55
+Haridwar|Nainital|285
+Rishikesh|Dehradun|45
+Rishikesh|Auli|250
+Dehradun|Mussoorie|35
+Dehradun|Nainital|290
+Mussoorie|Nainital|320
+Nainital|Auli|260
