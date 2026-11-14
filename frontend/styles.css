@@ -129,3 +129,46 @@ select:focus-visible {
     letter-spacing: .16em;
     font-weight: 700
 }
+
+.brand small {
+    display: block;
+    font-size: 8px;
+    letter-spacing: .23em;
+    color: #6f8780;
+    margin-top: 4px
+}
+
+.desktop-nav {
+    display: flex;
+    align-items: center;
+    gap: 34px;
+    margin-left: 80px
+}
+
+.nav-link {
+    font-size: 12px;
+    font-weight: 600;
+    color: #70817e;
+    transition: color .25s
+}
+
+.nav-link:hover,
+.nav-link.active {
+    color: var(--ink)
+}
+
+.nav-link.active:after {
+    content: "";
+    display: block;
+    height: 2px;
+    width: 16px;
+    background: var(--teal);
+    margin: 9px auto -11px;
+    border-radius: 4px
+}
+
+.header-actions {
+    display: flex;
+    align-items: center;
+    gap: 13px
+}
